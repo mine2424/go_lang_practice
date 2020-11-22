@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func typeOfPrint(){
   // %T is type reference, %v is variable, %t express bool
   // %b,o,d,x is base 2 8 10 16
   // %e is immutable floating number (scientific notation) for example 13.98462873e+00
